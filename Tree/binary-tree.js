@@ -34,3 +34,5 @@ let binaryTree = new BinaryTree()
 nodes.forEach(function(key) {
 	binaryTree.insert(key)
 })
+
+console.log(root)
